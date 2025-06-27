@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/*/target
 
 # testing
 /coverage
@@ -21,6 +22,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+output.txt
+*.js
 
 /coverage
 npm-debug.log*
